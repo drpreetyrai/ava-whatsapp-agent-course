@@ -29,6 +29,7 @@ You get **Ava**, a Whatsapp agent that can engage with users in a "realistic" wa
 
 By the end of this course, you'll have built your own Ava too, capable of:
 
+https://www.youtube.com/watch?v=NQlYB_OMtjQ
 
 * Receiving and sending Whatsapp messages 📲
 * Understanding your voice 🗣️
